@@ -1,0 +1,57 @@
+body{
+   background-image: url(images/1713023543_bogatyr-club-ubyz-p-oboi-metro-royal-49.jpg);
+}
+.v{
+    border: rgb(0, 56, 240) solid 6px;
+    padding: 15px;
+    color: rgb(16, 0, 245);
+    text-decoration: none;
+    border-radius: 20%;
+    position: absolute;
+    left: 90%;
+    top: 90%;
+}
+.v:hover{
+    background-color: rgb(0, 56, 240) ;
+}
+a:active{
+    background-color: black;
+}
+h1{
+    border: 6px solid rgb(255, 0, 0);
+    padding: 15px ;
+    width: 50%;
+    color: rgb(255, 0, 0);
+
+}
+li{
+    border: 6px solid rgb(255, 0, 0);
+    color: rgb(255, 0, 0);
+    list-style: none;
+    width: 150px;
+    padding: 25px;
+    font-size: 20px;
+    display: inline-block;
+    text-decoration: none;
+}
+.q{
+    position: absolute;
+    top: 90%;
+    left: 82%;
+    border: rgb(0, 56, 240) solid 6px;
+    padding: 15px;
+    color: rgb(16, 0, 245);
+    text-decoration: none;
+    border-radius: 20%;
+
+}
+.q:hover{
+    background-color: rgb(0, 56, 240) ;
+}
+li:hover{
+    background-color: rgb(179, 0, 0);
+}
+a{
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+}
