@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(images/1682096271_sneg-top-p-kartinki-metro-royal-vkontakte-55.jpg);
+    background-size: cover;
+}
+
+
+form {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    /* top + left 50% ставлять верхній лівий кут форми в центр екрана */
+  
+    transform: translate(-50%, -50%);
+    /* зсуває форму назад на 50% її ширини і висоти, щоб центр збігався з центром екрана */
+  
+    width: 20%;
+    height: 40%;
+    /* розміри форми як відсоток від розмірів вікна */
+  
+    background-color: #c3dfddb3;
+    /* напівпрозорий коричневий фон */
+    border-radius: 10%;
+    border:2px groove #c0c9ff ;
+  }
+
+input{
+    background-color: transparent;
+    color: rgba(161, 252, 255, 0.644);
+    border-radius: 10%;
+    width: 200px;
+
+
+}
+
+.qqq{
+    text-align: center;
+}
+button{
+    background-color: transparent;
+    color: rgb(145, 155, 177);
+}
+p{
+    margin: 0;
+    padding: 0;
+    color: rgba(123, 159, 160, 0.644);
+}
+h1{
+    color: rgba(96, 138, 136, 0.644);  
+    position: absolute;
+    top: 23%;
+    left: 45%;
+
+}
