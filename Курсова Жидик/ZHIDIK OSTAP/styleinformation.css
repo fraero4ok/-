@@ -31,3 +31,20 @@ h2{
     font-size: 50px;
     color: #ffffff;
 }
+.m{
+    border: 10px solid #ffffff ;
+    border-radius: 10%;
+    width: 1300px;
+    height: 700px;
+    position: absolute;
+    left: 300px;
+
+}
+.l{
+    border: 10px solid #ffffff ;
+    border-radius: 10%;
+    width: 1300px;
+    height: 550px;
+    position: absolute;
+    left: 300px;
+}

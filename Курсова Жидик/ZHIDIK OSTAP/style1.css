@@ -22,6 +22,7 @@ h1{
     padding: 15px ;
     width: 50%;
     color: rgb(255, 0, 0);
+    border-radius:25px  ;
 
 }
 li{
@@ -33,6 +34,7 @@ li{
     font-size: 20px;
     display: inline-block;
     text-decoration: none;
+    border-radius: 25px;
 }
 .q{
     position: absolute;
@@ -54,4 +56,11 @@ li:hover{
 a{
     text-decoration: none;
     color: rgb(255, 0, 0);
+}
+img{
+    width: 300px;
+    height: 400px;
+    position: absolute;
+    left: 0;
+    top: 475px;
 }
