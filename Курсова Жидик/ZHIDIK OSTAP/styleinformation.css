@@ -33,7 +33,7 @@ h2{
 }
 .m{
     border: 10px solid #ffffff ;
-    border-radius: 10%;
+    border-radius: 75px;
     width: 1300px;
     height: 700px;
     position: absolute;
@@ -42,9 +42,21 @@ h2{
 }
 .l{
     border: 10px solid #ffffff ;
-    border-radius: 10%;
+    border-radius: 70px;
     width: 1300px;
     height: 550px;
     position: absolute;
     left: 300px;
+}
+.P{
+        border: 10px solid #ffffff ;
+    border-radius: 60px;
+    width: 1300px;
+    height: 300px;
+    position: absolute;
+    left: 300px;
+}
+a{
+ text-decoration: none;
+    color: white;
 }
