@@ -1,0 +1,51 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(67, 4, 4);
+}
+h1{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 70px;
+}
+textarea{
+    background-color: rgb(67, 4, 4);
+    width: 55%;
+    height: 600px;
+    position: absolute;
+    left: 400px;
+    border-radius: 25px;
+    resize: none;
+    font-size: 30px;
+}
+button{
+
+    position: absolute;
+    top: 520px;
+    left: 600px;
+    font-size: 25px;
+    width: 190px;
+    height: 75px;
+    background-color: rgb(67, 4, 4);
+}
+.b{
+    position: absolute;
+    top: 825px;
+    left: 950px;
+    border-radius: 10px;
+}
+.n{
+    position: absolute;
+    top: 825px;
+    left: 675px;
+    border-radius: 10px;
+}
+.m{
+    border-radius: 10px;
+    position: absolute;
+    top: 825px;
+    left: 1650px;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}

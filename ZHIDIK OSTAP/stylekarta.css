@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(images/image6.png);   
+    background-size: cover;
+}
+a{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 93%;
+    top: 5px;
+}
+h1 , h2{
+    color: antiquewhite;
+    font-size: 30px;
+}
+#q{
+    position: absolute;
+    top: 575px;
+    left: 975px;
+}
+#t{
+    position: absolute;
+    top: 765px;
+    left: 825px;
+}
+#w{
+    position: absolute;
+    top: 265px;
+    left: 875px;
+}
+#i{
+    position: absolute;
+    top: 450px;
+    left: 700px;
+}
+#e{
+    position: absolute;
+    top: 265px;
+    left: 275px
+}
+#y{
+    position: absolute;
+    top: 450px;
+    left: 70px;
+}
+#r{
+    position: absolute;
+    top: 559px;
+    left: 375px;
+}
+#u{
+    position: absolute;
+    top: 775px;
+    left: 200px;
+}
